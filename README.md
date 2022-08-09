@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&count_private=true)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **biegomar/biegomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
