@@ -2,7 +2,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&&theme=github_dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&theme=github_dark)]()
 
 
 <!--
