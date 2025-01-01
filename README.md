@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [Heretic Roguelike](https://github.com/biegomar/Heretic.Roguelike).
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![ ](https://komarev.com/ghpvc/?username=biegomar&style=square&color=blueviolet)
 <!--
 **biegomar/biegomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
