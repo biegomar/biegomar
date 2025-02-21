@@ -6,8 +6,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=biegomar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![ ](https://komarev.com/ghpvc/?username=biegomar&style=square&color=blueviolet)
 <!--
 **biegomar/biegomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
