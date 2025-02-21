@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Heretic Roguelike](https://github.com/biegomar/Heretic.Roguelike).
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&include_all_commits=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
