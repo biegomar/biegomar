@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Heretic Roguelike](https://github.com/biegomar/Heretic.Roguelike).
+🔭 I’m currently lerning Golang.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
