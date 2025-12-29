@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently learning Golang.
+🔭 I'm just enjoying Christmas.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
