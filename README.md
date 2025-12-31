@@ -2,9 +2,9 @@
 
 🔭 I'm just enjoying Christmas.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=biegomar&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=biegomar&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ ](https://komarev.com/ghpvc/?username=biegomar&style=square&color=blueviolet)
 <!--
