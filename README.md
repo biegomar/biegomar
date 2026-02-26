@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 I'm just enjoying Christmas.
-
 [![My GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=biegomar&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=biegomar&hide=css,scss,html&langs_count=15&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
